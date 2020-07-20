@@ -1,5 +1,7 @@
 package com.winy.git_test;
 
 public class Test {
-System .out.print("你好")
+    public static void main(String[] args) {
+        System.out.println("纠正错误");
+    }
 }
